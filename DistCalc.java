@@ -4,7 +4,7 @@
  Programming Assignment lab 2
  Exercise #2
 */
-package lab2;
+
 
 import java.util.Scanner;
 public class DistCalc {
