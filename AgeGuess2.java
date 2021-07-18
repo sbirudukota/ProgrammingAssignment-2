@@ -5,7 +5,7 @@
  Exercise #4
 */
 
-package lab2;
+
 
 import java.util.Scanner; 
 import java.util.Random;
