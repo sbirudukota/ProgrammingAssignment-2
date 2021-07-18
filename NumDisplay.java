@@ -5,7 +5,7 @@
  Programming Assignment lab 2
  Exercise #6
 */
-package lab2;
+
 
 import java.util.Scanner;
 public class NumDisplay {
