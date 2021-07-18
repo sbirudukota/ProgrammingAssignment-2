@@ -6,7 +6,7 @@
 */
 
 
-package lab2;
+
 import java.util.Scanner; 
 import java.util.Random;
 public class AgeGuess {
