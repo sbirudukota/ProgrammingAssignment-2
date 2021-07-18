@@ -5,7 +5,6 @@
  Exercise #5
 */
 
-package lab2;
 
 import java.util.Random;
 
